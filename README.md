@@ -9,7 +9,7 @@ by <span style="font-family:Trebuchet MS;font-weight:bold"><span style="color:#7
 Latest version (click to download):
 [v0.0.14](https://github.com/LectureDot/LectureAssign-vscode/raw/main/lecture-assign.vsix)  
 Last Update: 2024-01-30  
-Installation instructions [below](#installation-instructions).
+Installation instructions [below](#installation).
 
 ----
 
@@ -25,7 +25,7 @@ If you have any issues or suggestions, please add them here:
 
 ----
 
-## Installation Instructions
+## Installation
 
 While the extension is still in beta, it is not available in the VSCode marketplace.
 
