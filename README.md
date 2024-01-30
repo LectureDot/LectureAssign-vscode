@@ -1,7 +1,7 @@
-
-<img src="icon.png" align=right width=120>
+<img src="icon.png" align=right width=128 style="margin:0.5em">
 
 # <span style="font-family:Trebuchet MS;font-weight:bold">Lecture<span style="color:#39d">Assign</span></span>
+
 
 Visual Studio Code extension
 by <span style="font-family:Trebuchet MS;font-weight:bold"><span style="color:#789">Lecture</span>Dot</span> 🎓•
