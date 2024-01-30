@@ -1,9 +1,5 @@
 
-<div style="display:flex">
-
-<img src="icon.png" style="width:120;height:120;margin:0.5em 2em 0 0">
-
-<span>
+<img src="icon.png" align=right width=120>
 
 # <span style="font-family:Trebuchet MS;font-weight:bold">Lecture<span style="color:#39d">Assign</span></span>
 
@@ -14,9 +10,6 @@ Latest version (click to download):
 [v0.0.14](https://github.com/LectureDot/LectureAssign-vscode/raw/main/lecture-assign.vsix)  
 Last Update: 2024-01-30
 
-</span>
-
-</div>
 
 ----
 
