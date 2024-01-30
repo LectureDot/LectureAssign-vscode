@@ -8,8 +8,8 @@ by <span style="font-family:Trebuchet MS;font-weight:bold"><span style="color:#7
 
 Latest version (click to download):
 [v0.0.14](https://github.com/LectureDot/LectureAssign-vscode/raw/main/lecture-assign.vsix)  
-Last Update: 2024-01-30
-
+Last Update: 2024-01-30  
+Installation instructions [below](#installation-instructions).
 
 ----
 
@@ -21,3 +21,25 @@ WARNING: LectureAssign is still in beta.
 
 If you have any issues or suggestions, please add them here: 
 [Issues and Suggestions](https://github.com/LectureDot/LectureAssign-vscode/issues).
+
+
+----
+
+## Installation Instructions
+
+While the extension is still in beta, it is not available in the VSCode marketplace.
+
+To install this extension:
+
+1. Download the latest version as a **vsix** file
+[here](https://github.com/LectureDot/LectureAssign-vscode/raw/main/lecture-assign.vsix).
+2. Open Visual Studio Code
+3. Pull down the **Help** menu, and click **Show All Commands**
+4. Type in "VSIX"
+5. Click **Extensions: Install from VSIX...**
+6. Locate the downloaded file **vsix** file, and click **Install**.
+
+You may see a message (bottom-right) "Completed installing Lecture Assign extension from VSIX. Please reload Visual Studio Code to enable it." with a button **Reload Now**.  
+If so:
+
+7. Click the **Reload Now** button.
