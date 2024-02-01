@@ -7,8 +7,8 @@ Visual Studio Code extension
 by <span style="font-family:Trebuchet MS;font-weight:bold"><span style="color:#789">Lecture</span>Dot</span> 🎓•
 
 Latest version (click to download):
-[v0.0.14](https://github.com/LectureDot/LectureAssign-vscode/raw/main/lecture-assign.vsix)  
-Last Update: 2024-01-30  
+[v0.0.15](https://github.com/LectureDot/LectureAssign-vscode/raw/main/lecture-assign.vsix)  
+Last Update: 2024-02-01  
 Installation instructions [below](#installation).
 
 ----
