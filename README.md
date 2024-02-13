@@ -6,9 +6,7 @@
 Visual Studio Code extension
 by <span style="font-family:Trebuchet MS;font-weight:bold"><span style="color:#789">Lecture</span>Dot</span> 🎓•
 
-Latest version (click to download):
-[v0.0.16](https://github.com/LectureDot/LectureAssign-vscode/raw/main/lecture-assign.vsix)  
-Last Update: 2024-02-13  
+Latest version (click to download): [0.0.17](vsix/lecture-assign-0.0.17.vsix) - 2024-02-13  
 Installation instructions [below](#installation).
 
 ----
@@ -31,8 +29,7 @@ While the extension is still in beta, it is not available in the VSCode marketpl
 
 To install this extension:
 
-- Download the latest version as a **vsix** file
-[here](https://github.com/LectureDot/LectureAssign-vscode/raw/main/lecture-assign.vsix).
+- Download the latest version of the LectureAssign extension.
 - Open Visual Studio Code
 - Pull down the **Help** menu, and click **Show All Commands**
 - Type in "VSIX"
@@ -47,9 +44,9 @@ If so:
 
 ----
 
-## Prior Versions
+## LectureAssign Version History
 
-### [0.0.17](lecture-assign-0.0.17.vsix) - 2024-02-13
+### [0.0.17](vsix/lecture-assign-0.0.17.vsix) - 2024-02-13
 
 #### Added
 
@@ -62,6 +59,6 @@ If so:
 - Removed .track files from file explorer
 
 
-### [0.0.16](lecture-assign-0.0.16.vsix) - 2024-02-02
+### [0.0.16](vsix/lecture-assign-0.0.16.vsix) - 2024-02-02
 
 - First stable release
