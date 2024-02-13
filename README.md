@@ -8,7 +8,7 @@ by <span style="font-family:Trebuchet MS;font-weight:bold"><span style="color:#7
 
 Latest version (click to download):
 [v0.0.16](https://github.com/LectureDot/LectureAssign-vscode/raw/main/lecture-assign.vsix)  
-Last Update: 2024-02-02  
+Last Update: 2024-02-13  
 Installation instructions [below](#installation).
 
 ----
@@ -43,3 +43,25 @@ You may see a message (bottom-right) "Completed installing Lecture Assign extens
 If so:
 
 - Click the **Reload Now** button.
+
+
+----
+
+## Prior Versions
+
+### [0.0.17](lecture-assign-0.0.17.vsix) - 2024-02-13
+
+#### Added
+
+- Time-based replay
+- Saving replay speed preferences
+
+#### Fixed
+
+- Minor bug fixes
+- Removed .track files from file explorer
+
+
+### [0.0.16](lecture-assign-0.0.16.vsix) - 2024-02-02
+
+- First stable release
