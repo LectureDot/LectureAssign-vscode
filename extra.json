@@ -1,0 +1,20 @@
+[
+  {
+    "html":"If you encounter issues using LectureAssign, of if you have suggestions, please add them <a href='https://github.com/LectureDot/LectureAssign-vscode/issues'>here</a>.",
+    "stay":25000
+  },
+  {
+    "html":[
+      "You got this! 👊🏽",
+      "Errors are good. Errors are informative. 🤔",
+      "Errors are good. Errors get you closer to the finish line. 🏆",
+      "Every pro started where you are. 🤯",
+      "You rock. 🤩",
+      "Balance. ☯",
+      "Settle in... ☕🎧",
+      "Stay in the flow... 🕯️🧘🏽‍♂️",
+      "You got this! 👊🏽"
+    ],
+    "stay":5000
+  }
+]
