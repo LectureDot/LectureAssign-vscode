@@ -1,7 +1,7 @@
 [
   {
     "html":"If you encounter issues using LectureAssign, of if you have suggestions, please add them <a href='https://github.com/LectureDot/LectureAssign-vscode/issues'>here</a>.",
-    "stay":25000
+    "stay":60000
   },
   {
     "html":[
@@ -15,6 +15,6 @@
       "Stay in the flow... 🕯️🧘🏽‍♂️",
       "You got this! 👊🏽"
     ],
-    "stay":5000
+    "stay":60000
   }
 ]
