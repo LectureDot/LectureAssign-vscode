@@ -6,7 +6,7 @@
 Visual Studio Code extension
 by <span style="font-family:Trebuchet MS;font-weight:bold"><span style="color:#789">Lecture</span>Dot</span> 🎓•
 
-Latest version (click to download): [0.0.18](vsix/lecture-assign-0.0.18.vsix) - 2024-02-15  
+Latest version (click to download): [LectureAssign v0.1.0](vsix/lecture-assign-0.1.0.vsix) - 2024-03-17  
 Installation instructions [below](#installation).
 
 ----
@@ -45,6 +45,24 @@ If so:
 ----
 
 ## LectureAssign Version History
+
+### [0.1.0](vsix/lecture-assign-0.1.0.vsix) - 2024-03-17
+
+#### Added
+
+- Assignment creation and editing
+- UUID for both assignments and submissions
+- Version requirement checking
+- Binary file attachments
+- Instructor and student abilities to rename files and change descriptions
+- Extra file bundling into submissions via file patterns
+- Saving playback/chart settings when .submit file tabs change
+- Saving time-based playback setting
+
+#### Fixed
+
+- Fixed bug where rewinding to beginning in the middle of playback caused an error
+
 
 ### [0.0.18](vsix/lecture-assign-0.0.18.vsix) - 2024-02-15
 
