@@ -6,7 +6,7 @@
 Visual Studio Code extension
 by <span style="font-family:Trebuchet MS;font-weight:bold"><span style="color:#789">Lecture</span>Dot</span> 🎓•
 
-Latest version (click to download): [LectureAssign v0.1.0](vsix/lecture-assign-0.1.0.vsix) - 2024-03-17  
+Latest version (click to download): [LectureAssign v0.1.1](vsix/lecture-assign-0.1.1.vsix) - 2024-03-24  
 Installation instructions [below](#installation).
 
 ----
@@ -45,6 +45,15 @@ If so:
 ----
 
 ## LectureAssign Version History
+
+### [0.1.1](vsix/lecture-assign-0.1.1.vsix) - 2024-03-24
+
+#### Fixed
+
+- Fixed bug where files collected via file-pattern would be duplicates of those in the submission
+- Fixed bug where in instructor-editing mode field changes got lost when attached file content was updated
+- Fixed bug where in submission view changing between two file replays would retain the same content preview
+
 
 ### [0.1.0](vsix/lecture-assign-0.1.0.vsix) - 2024-03-17
 
