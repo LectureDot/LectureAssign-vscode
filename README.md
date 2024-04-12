@@ -6,7 +6,7 @@
 Visual Studio Code extension
 by <span style="font-family:Trebuchet MS;font-weight:bold"><span style="color:#789">Lecture</span>Dot</span> 🎓•
 
-Latest version (click to download): [LectureAssign v0.1.2](vsix/lecture-assign-0.1.2.vsix) - 2024-04-04  
+Latest version (click to download): [LectureAssign v0.1.3](vsix/lecture-assign-0.1.3.vsix) - 2024-04-12  
 Installation instructions [below](#installation).
 
 ----
@@ -45,6 +45,13 @@ If so:
 ----
 
 ## LectureAssign Version History
+
+### [0.1.3](vsix/lecture-assign-0.1.3.vsix) - 2024-04-12
+
+#### Fixed
+
+- Making sure paths exist when updating assignment view and when starting assignment
+
 
 ### [0.1.2](vsix/lecture-assign-0.1.2.vsix) - 2024-04-04
 
