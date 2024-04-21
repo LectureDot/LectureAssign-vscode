@@ -6,7 +6,7 @@
 Visual Studio Code extension
 by <span style="font-family:Trebuchet MS;font-weight:bold"><span style="color:#789">Lecture</span>Dot</span> 🎓•
 
-Latest version (click to download): [LectureAssign v0.1.5](vsix/lecture-assign-0.1.5.vsix) - 2024-04-18  
+Latest version (click to download): [LectureAssign v0.1.6](vsix/lecture-assign-0.1.6.vsix) - 2024-04-21  
 Installation instructions [below](#installation).
 
 ----
@@ -45,6 +45,14 @@ If so:
 ----
 
 ## LectureAssign Version History
+
+### [0.1.6](vsix/lecture-assign-0.1.6.vsix) - 2024-04-21
+
+#### Fixed
+
+- Large .submit files unarchived before opening to avoid VSCode 50mb limitation error
+- Removed repeating file content in .submit files
+
 
 ### [0.1.5](vsix/lecture-assign-0.1.5.vsix) - 2024-04-19
 
