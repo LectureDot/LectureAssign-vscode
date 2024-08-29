@@ -6,7 +6,7 @@
 Visual Studio Code extension
 by <span style="font-family:Trebuchet MS;font-weight:bold"><span style="color:#789">Lecture</span>Dot</span> 🎓•
 
-Latest version (click to download): [LectureAssign v0.2.0](vsix/lecture-assign-0.2.0.vsix) - 2024-08-24  
+Latest version (click to download): [LectureAssign v0.2.1](vsix/lecture-assign-0.2.1.vsix) - 2024-08-29  
 Installation instructions [below](#installation).
 
 ----
@@ -45,6 +45,19 @@ If so:
 ----
 
 ## LectureAssign Version History
+
+### [0.2.1](vsix/lecture-assign-0.2.1.vsix) - 2024-08-29
+
+#### Added
+
+- Ability to copy error messages to clipboard
+
+#### Fixed
+
+- Missing file handling refined
+- Ignore list was not updating if file list was not changed
+- Special field hidden in assignment-editing view (createdAssignment)
+
 
 ### [0.2.0](vsix/lecture-assign-0.2.0.vsix) - 2024-08-24
 
